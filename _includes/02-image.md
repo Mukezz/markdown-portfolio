@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image kodaikanal](https://timesofindia.indiatimes.com/travel/travel-news/kodaikanal-is-now-open-for-tourists-e-passes-required/as78034444.cms)
